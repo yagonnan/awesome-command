@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "awesome-command": "index.js",
+    "awesome-command": "index.js"
   },
   "repository": {
     "type": "git",
